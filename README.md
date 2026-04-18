@@ -59,6 +59,7 @@ Go to AWS Console → EC2 → Launch Instance
 - Storage: default (8 GB)
 
   a. Go to EC2 dashboard
+
   b. Wait until status = running
 
 ### Security Group:
