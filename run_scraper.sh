@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ubuntu/quotes-scraper
+cd /home/ubuntu/quotes-scraper-part2
 
 source venv/bin/activate
 
